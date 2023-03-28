@@ -1,6 +1,7 @@
 # Voice-Assistant-with-GPT-Dalle
 We all know the capacity of ChatGPT to generate text based response for your commands and Dalle to bring your imagination in to pictorial representation. But, in this use-case I'm taking voice based commands as input and respond back visually and voice mode.
-
+Lets see the use-case process
+<img src="https://github.com/iamBHK/Voice-Assistant-with-GPT-Dalle/blob/main/AI%20process.png" alt="Voice Assistant to Text Process">
 My voice assistant name is isha as tested <a href="https://www.instagram.com/reel/CZnG7Y0jRbc/">here</a>. I will be integrating same with powerful GPT & Dalle from OpenAI.
 
 Typical process, 
