@@ -15,4 +15,4 @@ To run this program,
 1. Just download and add new folder AllImages.
 2. Create your own virtual assistant.
 3. Install PyAudio, SpeechRecognition, pyttsx3, OpenAI, JSON.
-4. Execute GPT_speech_recognition.py file to test this use-case.
+4. Execute GPT_speech_recognition.py or decorator_functions.py file to test this use-case.
